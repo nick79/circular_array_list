@@ -1,2 +1,2 @@
 # Circular Array List
-Implementation fo cicrular array list.
+Implementation fo circular array list. Test is written using reflection.
